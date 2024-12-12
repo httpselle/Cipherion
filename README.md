@@ -63,7 +63,8 @@ We are using GitHub to collaborate on this project. Each team member has their o
 ### Team Members
 - Member 1: [httpselle](https://github.com/httpselle)
 - Member 2: [Julianne Simonette](https://github.com/Jlsie)
-- Member 3: [GitHub Username](https://github.com/member3)
+- Member 3: [joshua509](https://github.com/joshuanunez509)
+
 
 ---
 

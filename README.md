@@ -61,8 +61,8 @@ python cipherion.py --decrypt "encrypted_file.txt" --key "your_key"
 We are using GitHub to collaborate on this project. Each team member has their own branch for feature development. Changes are merged into the main branch through pull requests.
 
 ### Team Members
-- Member 1: [GitHub Username](https://github.com/member1)
-- Member 2: [GitHub Username](https://github.com/member2)
+- Member 1: [httpselle](https://github.com/httpselle)
+- Member 2: [Julianne Simonette](https://github.com/Jlsie)
 - Member 3: [GitHub Username](https://github.com/member3)
 
 ---

@@ -94,5 +94,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 For any questions or feedback, feel free to reach out:
-- [Your Name](mailto:your.email@example.com)
-- [GitHub Issues](https://github.com/yourusername/Cipherion/issues)
+- [Julianne Simonette](mailto:s.juliannesimonette.serrano@sscr.edu)

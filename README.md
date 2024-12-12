@@ -95,3 +95,5 @@ This project is licensed under the [MIT License](LICENSE).
 ## Contact
 For any questions or feedback, feel free to reach out:
 - [Julianne Simonette](mailto:s.juliannesimonette.serrano@sscr.edu)
+- [Eliah Ambayec](mailto:s.eliahlord.ambayec@sscr.edu)
+

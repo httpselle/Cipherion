@@ -96,6 +96,7 @@ def register_user():
         "Trusted_Connection=yes;"     # Use authentication as applicable
     )
     
+    
     cursor = conn.cursor()
 
     # SQL query to insert new user data
